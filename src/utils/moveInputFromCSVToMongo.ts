@@ -1,7 +1,10 @@
+import * as dotenv from "dotenv";
 import * as fs from "fs";
 import csv from "csv-parser";
 import { MongoClient } from "mongodb";
 import path from "path";
+
+dotenv.config();
 
 const INPUT_CSV_NAME = "vab_production_formatted.csv";
 const INPUT_CSV_PATH = path.resolve(__dirname, "..", "..", INPUT_CSV_NAME);
@@ -14,7 +17,7 @@ const CONCEPT_INFO_CSV_PATH = path.resolve(
   CONCEPT_INFO_CSV_NAME
 );
 
-const MONGO_URL = "mongodb://localhost:27017";
+const MONGO_URL = process.env.MONGODB_URI;
 const DB_NAME = "gallerize";
 const INPUT_COLLECTION_NAME = "gallerize-vab128-input";
 const CONCEPT_INFO_COLLECTION_NAME = "gallerize-vab128-concepts-info";
