@@ -1,0 +1,1772 @@
+[
+  {
+    "trials": [
+      {
+        "validConcept": "album",
+        "invalidConcept": "dessert",
+        "firstClickTime": 0,
+        "images": [
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebf8818a12f3247b950f6"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06558988816856b67dfc"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebd9118a12f3247b94e83"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06f48988816856b6800d"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce061d8988816856b67cb4"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce05e58988816856b67ba7"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce09888988816856b681b0"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb73e10b70b6fa23dd0bf"
+          },
+          {
+            "valid": false,
+            "selected": false,
+            "imageId": "63cebda318a12f3247b94eb5"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb84810b70b6fa23dd2c0"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06258988816856b67ce4"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce060c8988816856b67c58"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce067d8988816856b67eab"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06428988816856b67d93"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce075d8988816856b68096"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebe1718a12f3247b9500e"
+          }
+        ],
+        "lastClickTime": 27610
+      },
+      {
+        "validConcept": "album",
+        "invalidConcept": "pumpkin",
+        "firstClickTime": 109794,
+        "images": [
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb73e10b70b6fa23dd0bf"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb84810b70b6fa23dd2c0"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06558988816856b67dfc"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebe1718a12f3247b9500e"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06258988816856b67ce4"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce075d8988816856b68096"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce069e8988816856b67f29"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebd9118a12f3247b94e83"
+          },
+          {
+            "valid": false,
+            "selected": false,
+            "imageId": "63ce07808988816856b680ab"
+          },
+          {
+            "valid": true,
+            "selected": true,
+            "imageId": "63cebd6418a12f3247b94e2c"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebf8818a12f3247b950f6"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce060c8988816856b67c58"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce067d8988816856b67eab"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06f48988816856b6800d"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06428988816856b67d93"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb7b910b70b6fa23dd1b0"
+          }
+        ],
+        "lastClickTime": 110375
+      },
+      {
+        "validConcept": "album",
+        "invalidConcept": "beer",
+        "firstClickTime": 0,
+        "images": [
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb84810b70b6fa23dd2c0"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce07b38988816856b680cb"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb76b10b70b6fa23dd0f8"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebdf218a12f3247b94faa"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb7b310b70b6fa23dd1a2"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebf8818a12f3247b950f6"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06608988816856b67e2e"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06f48988816856b6800d"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebd9118a12f3247b94e83"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb73e10b70b6fa23dd0bf"
+          },
+          {
+            "valid": true,
+            "selected": true,
+            "imageId": "63ce075d8988816856b68096"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce069e8988816856b67f29"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebd6418a12f3247b94e2c"
+          },
+          {
+            "valid": true,
+            "selected": true,
+            "imageId": "63ce06428988816856b67d93"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb9a910b70b6fa23dd37a"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce067d8988816856b67eab"
+          }
+        ],
+        "lastClickTime": 366
+      },
+      {
+        "validConcept": "album",
+        "invalidConcept": "baseball_glove",
+        "firstClickTime": 0,
+        "images": [
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce067d8988816856b67eab"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb7b910b70b6fa23dd1b0"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06258988816856b67ce4"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce069e8988816856b67f29"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce060c8988816856b67c58"
+          },
+          {
+            "valid": false,
+            "selected": false,
+            "imageId": "63ce05ce8988816856b67b60"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06608988816856b67e2e"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb7b310b70b6fa23dd1a2"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebe1718a12f3247b9500e"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebd9118a12f3247b94e83"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb76b10b70b6fa23dd0f8"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06f48988816856b6800d"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce061d8988816856b67cb4"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb84810b70b6fa23dd2c0"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebdc618a12f3247b94f27"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb73e10b70b6fa23dd0bf"
+          }
+        ],
+        "lastClickTime": 1624
+      },
+      {
+        "validConcept": "album",
+        "invalidConcept": "mouse",
+        "firstClickTime": 903,
+        "images": [
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06608988816856b67e2e"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06558988816856b67dfc"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebdf218a12f3247b94faa"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce07b38988816856b680cb"
+          },
+          {
+            "valid": true,
+            "selected": true,
+            "imageId": "63ceb7b310b70b6fa23dd1a2"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebf8818a12f3247b950f6"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb9a910b70b6fa23dd37a"
+          },
+          {
+            "valid": false,
+            "selected": false,
+            "imageId": "63ce06558988816856b67df8"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06258988816856b67ce4"
+          },
+          {
+            "valid": true,
+            "selected": true,
+            "imageId": "63cebd6418a12f3247b94e2c"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce060c8988816856b67c58"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce05e58988816856b67ba7"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06428988816856b67d93"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06f48988816856b6800d"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebdc618a12f3247b94f27"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce067d8988816856b67eab"
+          }
+        ],
+        "lastClickTime": 1794
+      },
+      {
+        "validConcept": "album",
+        "invalidConcept": "carriage",
+        "firstClickTime": 1001,
+        "images": [
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce060c8988816856b67c58"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06428988816856b67d93"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce067d8988816856b67eab"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce061d8988816856b67cb4"
+          },
+          {
+            "valid": false,
+            "selected": false,
+            "imageId": "63ce09488988816856b68191"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebd6418a12f3247b94e2c"
+          },
+          {
+            "valid": true,
+            "selected": true,
+            "imageId": "63ceb9a910b70b6fa23dd37a"
+          },
+          {
+            "valid": true,
+            "selected": true,
+            "imageId": "63ceb73e10b70b6fa23dd0bf"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce05e58988816856b67ba7"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce09888988816856b681b0"
+          },
+          {
+            "valid": true,
+            "selected": true,
+            "imageId": "63ceb76b10b70b6fa23dd0f8"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebd9118a12f3247b94e83"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce069e8988816856b67f29"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebf8818a12f3247b950f6"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebdc618a12f3247b94f27"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06608988816856b67e2e"
+          }
+        ],
+        "lastClickTime": 2747
+      },
+      {
+        "validConcept": "album",
+        "invalidConcept": "badger",
+        "firstClickTime": 1075,
+        "images": [
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb7b910b70b6fa23dd1b0"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebdc618a12f3247b94f27"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce069e8988816856b67f29"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06258988816856b67ce4"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce067d8988816856b67eab"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06428988816856b67d93"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb84810b70b6fa23dd2c0"
+          },
+          {
+            "valid": true,
+            "selected": true,
+            "imageId": "63ce07b38988816856b680cb"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebf8818a12f3247b950f6"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce075d8988816856b68096"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06558988816856b67dfc"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce060c8988816856b67c58"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce05e58988816856b67ba7"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce061d8988816856b67cb4"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce09888988816856b681b0"
+          },
+          {
+            "valid": false,
+            "selected": false,
+            "imageId": "63ceb81a10b70b6fa23dd27e"
+          }
+        ],
+        "lastClickTime": 2674
+      },
+      {
+        "validConcept": "album",
+        "invalidConcept": "hat",
+        "firstClickTime": 917,
+        "images": [
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06428988816856b67d93"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce061d8988816856b67cb4"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce05e58988816856b67ba7"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06258988816856b67ce4"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce075d8988816856b68096"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce067d8988816856b67eab"
+          },
+          {
+            "valid": true,
+            "selected": true,
+            "imageId": "63ceb9a910b70b6fa23dd37a"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb7b310b70b6fa23dd1a2"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebf8818a12f3247b950f6"
+          },
+          {
+            "valid": true,
+            "selected": true,
+            "imageId": "63cebdf218a12f3247b94faa"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb7b910b70b6fa23dd1b0"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebe1718a12f3247b9500e"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06558988816856b67dfc"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebdc618a12f3247b94f27"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce069e8988816856b67f29"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb84810b70b6fa23dd2c0"
+          }
+        ],
+        "lastClickTime": 1942
+      },
+      {
+        "validConcept": "album",
+        "invalidConcept": "knob",
+        "firstClickTime": 898,
+        "images": [
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb73e10b70b6fa23dd0bf"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06f48988816856b6800d"
+          },
+          {
+            "valid": false,
+            "selected": false,
+            "imageId": "63ce05de8988816856b67b8f"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebd6418a12f3247b94e2c"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb9a910b70b6fa23dd37a"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce07b38988816856b680cb"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb7b910b70b6fa23dd1b0"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebe1718a12f3247b9500e"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06258988816856b67ce4"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce069e8988816856b67f29"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce05e58988816856b67ba7"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb7b310b70b6fa23dd1a2"
+          },
+          {
+            "valid": true,
+            "selected": true,
+            "imageId": "63cebf8818a12f3247b950f6"
+          },
+          {
+            "valid": true,
+            "selected": true,
+            "imageId": "63ceb84810b70b6fa23dd2c0"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebd9118a12f3247b94e83"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce075d8988816856b68096"
+          }
+        ],
+        "lastClickTime": 1717
+      },
+      {
+        "validConcept": "album",
+        "invalidConcept": "vase",
+        "firstClickTime": 671,
+        "images": [
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebf8818a12f3247b950f6"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce075d8988816856b68096"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06558988816856b67dfc"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06f48988816856b6800d"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce09888988816856b681b0"
+          },
+          {
+            "valid": false,
+            "selected": false,
+            "imageId": "63cecefdea55f4418104536b"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06428988816856b67d93"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb84810b70b6fa23dd2c0"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce07b38988816856b680cb"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce067d8988816856b67eab"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce061d8988816856b67cb4"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06608988816856b67e2e"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce069e8988816856b67f29"
+          },
+          {
+            "valid": true,
+            "selected": true,
+            "imageId": "63cebd6418a12f3247b94e2c"
+          },
+          {
+            "valid": true,
+            "selected": true,
+            "imageId": "63ceb73e10b70b6fa23dd0bf"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebdc618a12f3247b94f27"
+          }
+        ],
+        "lastClickTime": 1589
+      }
+    ],
+    "userId": "clh849hqp00003b6p583rbsva"
+  },
+  {
+    "trials": [
+      {
+        "validConcept": "album",
+        "invalidConcept": "ravioli",
+        "firstClickTime": 0,
+        "images": [
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebf8818a12f3247b950f6"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06428988816856b67d93"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebe1718a12f3247b9500e"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce061d8988816856b67cb4"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce067d8988816856b67eab"
+          },
+          {
+            "valid": false,
+            "selected": false,
+            "imageId": "63ce05e88988816856b67baf"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb73e10b70b6fa23dd0bf"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb84810b70b6fa23dd2c0"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebd6418a12f3247b94e2c"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce075d8988816856b68096"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb9a910b70b6fa23dd37a"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb7b910b70b6fa23dd1b0"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06258988816856b67ce4"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb7b310b70b6fa23dd1a2"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce09888988816856b681b0"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebd9118a12f3247b94e83"
+          }
+        ],
+        "lastClickTime": 13537
+      },
+      {
+        "validConcept": "tennis_ball",
+        "invalidConcept": "carriage",
+        "firstClickTime": 2810,
+        "images": [
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cc37e2c966b17f84911dd8"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06f08988816856b68006"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06748988816856b67e87"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebb7510b70b6fa23dd3ea"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06438988816856b67d97"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ddbee327163215d1c518d7"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06b58988816856b67f71"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cc37c5c966b17f84911dc4"
+          },
+          {
+            "valid": true,
+            "selected": true,
+            "imageId": "63ce04028988816856b67aec"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ddc32827163215d1c5193b"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceba1110b70b6fa23dd39f"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb80f10b70b6fa23dd26e"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cec903d2c35d35b988c93c"
+          },
+          {
+            "valid": true,
+            "selected": true,
+            "imageId": "63ce05d68988816856b67b74"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce07cb8988816856b680df"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebd7918a12f3247b94e4d"
+          }
+        ],
+        "lastClickTime": 3594
+      },
+      {
+        "validConcept": "tennis_ball",
+        "invalidConcept": "cot",
+        "firstClickTime": 484,
+        "images": [
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb80710b70b6fa23dd25f"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ddc32827163215d1c5193b"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce04028988816856b67aec"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce07238988816856b68056"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ddbee327163215d1c518d7"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebd7918a12f3247b94e4d"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce05d68988816856b67b74"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce07cb8988816856b680df"
+          },
+          {
+            "valid": false,
+            "selected": false,
+            "imageId": "63ceb8b410b70b6fa23dd30c"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cc3819c966b17f84911e35"
+          },
+          {
+            "valid": true,
+            "selected": true,
+            "imageId": "63cc37e2c966b17f84911dd8"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06b58988816856b67f71"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06058988816856b67c30"
+          },
+          {
+            "valid": true,
+            "selected": true,
+            "imageId": "63ce06fc8988816856b6801e"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce066e8988816856b67e6d"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06748988816856b67e87"
+          }
+        ],
+        "lastClickTime": 1300
+      },
+      {
+        "validConcept": "tennis_ball",
+        "invalidConcept": "doorknocker",
+        "firstClickTime": 460,
+        "images": [
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06548988816856b67df4"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebb7510b70b6fa23dd3ea"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce05d68988816856b67b74"
+          },
+          {
+            "valid": false,
+            "selected": false,
+            "imageId": "63ce05e48988816856b67ba0"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ddc32827163215d1c5193b"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebd7918a12f3247b94e4d"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06b58988816856b67f71"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06258988816856b67ce3"
+          },
+          {
+            "valid": true,
+            "selected": true,
+            "imageId": "63ceba1110b70b6fa23dd39f"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06748988816856b67e87"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce07238988816856b68056"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06f08988816856b68006"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb80f10b70b6fa23dd26e"
+          },
+          {
+            "valid": true,
+            "selected": true,
+            "imageId": "63cc37e2c966b17f84911dd8"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce04028988816856b67aec"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cc37c5c966b17f84911dc4"
+          }
+        ],
+        "lastClickTime": 1283
+      },
+      {
+        "validConcept": "tennis_ball",
+        "invalidConcept": "bread",
+        "firstClickTime": 415,
+        "images": [
+          {
+            "valid": false,
+            "selected": false,
+            "imageId": "63ceba1310b70b6fa23dd3a1"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06f08988816856b68006"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce066e8988816856b67e6d"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06748988816856b67e87"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cc37e2c966b17f84911dd8"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06b58988816856b67f71"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce07cb8988816856b680df"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce07238988816856b68056"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ddc3aa27163215d1c51954"
+          },
+          {
+            "valid": true,
+            "selected": true,
+            "imageId": "63ce06438988816856b67d97"
+          },
+          {
+            "valid": true,
+            "selected": true,
+            "imageId": "63cebb7510b70b6fa23dd3ea"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06548988816856b67df4"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce05d68988816856b67b74"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ddbee327163215d1c518d7"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce04028988816856b67aec"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb80710b70b6fa23dd25f"
+          }
+        ],
+        "lastClickTime": 1991
+      },
+      {
+        "validConcept": "tennis_ball",
+        "invalidConcept": "doorknob",
+        "firstClickTime": 393,
+        "images": [
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cc37c5c966b17f84911dc4"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ddbee327163215d1c518d7"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebd7918a12f3247b94e4d"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ddc3aa27163215d1c51954"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb80710b70b6fa23dd25f"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebb7510b70b6fa23dd3ea"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06b58988816856b67f71"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cc37e2c966b17f84911dd8"
+          },
+          {
+            "valid": false,
+            "selected": false,
+            "imageId": "63ceb7d610b70b6fa23dd1fc"
+          },
+          {
+            "valid": true,
+            "selected": true,
+            "imageId": "63cec903d2c35d35b988c93c"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06748988816856b67e87"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06548988816856b67df4"
+          },
+          {
+            "valid": false,
+            "selected": false,
+            "imageId": "63ce06788988816856b67e99"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb80f10b70b6fa23dd26e"
+          },
+          {
+            "valid": true,
+            "selected": true,
+            "imageId": "63ceba1110b70b6fa23dd39f"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cc3819c966b17f84911e35"
+          }
+        ],
+        "lastClickTime": 1248
+      },
+      {
+        "validConcept": "tennis_ball",
+        "invalidConcept": "gravy",
+        "firstClickTime": 621,
+        "images": [
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cc37c5c966b17f84911dc4"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce066e8988816856b67e6d"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cec903d2c35d35b988c93c"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06548988816856b67df4"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb80f10b70b6fa23dd26e"
+          },
+          {
+            "valid": true,
+            "selected": true,
+            "imageId": "63ce06058988816856b67c30"
+          },
+          {
+            "valid": false,
+            "selected": false,
+            "imageId": "63ce08548988816856b6812a"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06438988816856b67d97"
+          },
+          {
+            "valid": true,
+            "selected": true,
+            "imageId": "63ceba1110b70b6fa23dd39f"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce04028988816856b67aec"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06b58988816856b67f71"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb80710b70b6fa23dd25f"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06258988816856b67ce3"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ddc3aa27163215d1c51954"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06fc8988816856b6801e"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce07cb8988816856b680df"
+          }
+        ],
+        "lastClickTime": 1739
+      },
+      {
+        "validConcept": "tennis_ball",
+        "invalidConcept": "kneepad",
+        "firstClickTime": 0,
+        "images": [
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceba1110b70b6fa23dd39f"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06fc8988816856b6801e"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ddc32827163215d1c5193b"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce07238988816856b68056"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cc3819c966b17f84911e35"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebb7510b70b6fa23dd3ea"
+          },
+          {
+            "valid": true,
+            "selected": true,
+            "imageId": "63ce06548988816856b67df4"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce05d68988816856b67b74"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06258988816856b67ce3"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce066e8988816856b67e6d"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cec903d2c35d35b988c93c"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cc37c5c966b17f84911dc4"
+          },
+          {
+            "valid": false,
+            "selected": false,
+            "imageId": "63ce065f8988816856b67e2b"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06b58988816856b67f71"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06f08988816856b68006"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ddc3aa27163215d1c51954"
+          }
+        ],
+        "lastClickTime": 891
+      },
+      {
+        "validConcept": "tennis_ball",
+        "invalidConcept": "enchilada",
+        "firstClickTime": 531,
+        "images": [
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06fc8988816856b6801e"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce04028988816856b67aec"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ddc3aa27163215d1c51954"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06438988816856b67d97"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cec903d2c35d35b988c93c"
+          },
+          {
+            "valid": false,
+            "selected": true,
+            "imageId": "63cec917d2c35d35b988c96f"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06b58988816856b67f71"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce05d68988816856b67b74"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce07238988816856b68056"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ddc32827163215d1c5193b"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceba1110b70b6fa23dd39f"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebd7918a12f3247b94e4d"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb80710b70b6fa23dd25f"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebb7510b70b6fa23dd3ea"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb80f10b70b6fa23dd26e"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce07cb8988816856b680df"
+          }
+        ],
+        "lastClickTime": 1307
+      },
+      {
+        "validConcept": "tennis_ball",
+        "invalidConcept": "backscratcher",
+        "firstClickTime": 156,
+        "images": [
+          {
+            "valid": false,
+            "selected": false,
+            "imageId": "63cebfaa18a12f3247b95102"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06b58988816856b67f71"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cc37c5c966b17f84911dc4"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce07238988816856b68056"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06258988816856b67ce3"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06438988816856b67d97"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceb80f10b70b6fa23dd26e"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06748988816856b67e87"
+          },
+          {
+            "valid": true,
+            "selected": true,
+            "imageId": "63ce06058988816856b67c30"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce05d68988816856b67b74"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cc3819c966b17f84911e35"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63cebb7510b70b6fa23dd3ea"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce066e8988816856b67e6d"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ceba1110b70b6fa23dd39f"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce06fc8988816856b6801e"
+          },
+          {
+            "valid": true,
+            "selected": false,
+            "imageId": "63ce04028988816856b67aec"
+          }
+        ],
+        "lastClickTime": 927
+      }
+    ],
+    "userId": "clh862iiq00003b6nrvdszqu0"
+  }
+]

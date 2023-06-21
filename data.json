@@ -1,0 +1,642 @@
+{
+  "384": {
+    "_id": "mango_19n_4",
+    "filename_prod": "mango_19n.jpg",
+    "filename_recog": "mango_19n_4.png",
+    "abstraction": 4,
+    "uniqueID": "mango",
+    "concept": "mango",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/mango_19n_4.png"
+  },
+  "385": {
+    "_id": "bongo_01s_32",
+    "filename_prod": "bongo_01s.jpg",
+    "filename_recog": "bongo_01s_32.png",
+    "abstraction": 32,
+    "uniqueID": "bongo",
+    "concept": "bongo",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/bongo_01s_32.png"
+  },
+  "386": {
+    "_id": "bench_06s_16",
+    "filename_prod": "bench_06s.jpg",
+    "filename_recog": "bench_06s_16.png",
+    "abstraction": 16,
+    "uniqueID": "bench",
+    "concept": "bench",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/bench_06s_16.png"
+  },
+  "387": {
+    "_id": "chainsaw_03s_32",
+    "filename_prod": "chainsaw_03s.jpg",
+    "filename_recog": "chainsaw_03s_32.png",
+    "abstraction": 32,
+    "uniqueID": "chainsaw",
+    "concept": "chainsaw",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/chainsaw_03s_32.png"
+  },
+  "388": {
+    "_id": "tank1_11s_16",
+    "filename_prod": "tank1_11s.jpg",
+    "filename_recog": "tank1_11s_16.png",
+    "abstraction": 16,
+    "uniqueID": "tank1",
+    "concept": "tank",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/tank1_11s_16.png"
+  },
+  "389": {
+    "_id": "iguana_19s_8",
+    "filename_prod": "iguana_19s.jpg",
+    "filename_recog": "iguana_19s_8.png",
+    "abstraction": 8,
+    "uniqueID": "iguana",
+    "concept": "iguana",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/iguana_19s_8.png"
+  },
+  "390": {
+    "_id": "uniform_07s_32",
+    "filename_prod": "uniform_07s.jpg",
+    "filename_recog": "uniform_07s_32.png",
+    "abstraction": 32,
+    "uniqueID": "uniform",
+    "concept": "uniform",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/uniform_07s_32.png"
+  },
+  "391": {
+    "_id": "stew_09s_4",
+    "filename_prod": "stew_09s.jpg",
+    "filename_recog": "stew_09s_4.png",
+    "abstraction": 4,
+    "uniqueID": "stew",
+    "concept": "stew",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/stew_09s_4.png"
+  },
+  "392": {
+    "_id": "beachball_14s_32",
+    "filename_prod": "beachball_14s.jpg",
+    "filename_recog": "beachball_14s_32.png",
+    "abstraction": 32,
+    "uniqueID": "beachball",
+    "concept": "beachball",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/beachball_14s_32.png"
+  },
+  "393": {
+    "_id": "blower_11s_4",
+    "filename_prod": "blower_11s.jpg",
+    "filename_recog": "blower_11s_4.png",
+    "abstraction": 4,
+    "uniqueID": "blower",
+    "concept": "blower",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/blower_11s_4.png"
+  },
+  "394": {
+    "_id": "bag_10s_16",
+    "filename_prod": "bag_10s.jpg",
+    "filename_recog": "bag_10s_16.png",
+    "abstraction": 16,
+    "uniqueID": "bag",
+    "concept": "bag",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/bag_10s_16.png"
+  },
+  "395": {
+    "_id": "doorknocker_25s_4",
+    "filename_prod": "doorknocker_25s.jpg",
+    "filename_recog": "doorknocker_25s_4.png",
+    "abstraction": 4,
+    "uniqueID": "doorknocker",
+    "concept": "doorknocker",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/doorknocker_25s_4.png"
+  },
+  "396": {
+    "_id": "beanbag_01b_32",
+    "filename_prod": "beanbag_01b.jpg",
+    "filename_recog": "beanbag_01b_32.png",
+    "abstraction": 32,
+    "uniqueID": "beanbag",
+    "concept": "beanbag",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/beanbag_01b_32.png"
+  },
+  "397": {
+    "_id": "tuxedo_14s_32",
+    "filename_prod": "tuxedo_14s.jpg",
+    "filename_recog": "tuxedo_14s_32.png",
+    "abstraction": 32,
+    "uniqueID": "tuxedo",
+    "concept": "tuxedo",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/tuxedo_14s_32.png"
+  },
+  "398": {
+    "_id": "hatchet_19s_8",
+    "filename_prod": "hatchet_19s.jpg",
+    "filename_recog": "hatchet_19s_8.png",
+    "abstraction": 8,
+    "uniqueID": "hatchet",
+    "concept": "hatchet",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/hatchet_19s_8.png"
+  },
+  "399": {
+    "_id": "beer_15s_32",
+    "filename_prod": "beer_15s.jpg",
+    "filename_recog": "beer_15s_32.png",
+    "abstraction": 32,
+    "uniqueID": "beer",
+    "concept": "beer",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/beer_15s_32.png"
+  },
+  "400": {
+    "_id": "leek_12s_16",
+    "filename_prod": "leek_12s.jpg",
+    "filename_recog": "leek_12s_16.png",
+    "abstraction": 16,
+    "uniqueID": "leek",
+    "concept": "leek",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/leek_12s_16.png"
+  },
+  "401": {
+    "_id": "cannonball_02s_4",
+    "filename_prod": "cannonball_02s.jpg",
+    "filename_recog": "cannonball_02s_4.png",
+    "abstraction": 4,
+    "uniqueID": "cannonball",
+    "concept": "cannonball",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/cannonball_02s_4.png"
+  },
+  "402": {
+    "_id": "tortellini_16s_16",
+    "filename_prod": "tortellini_16s.jpg",
+    "filename_recog": "tortellini_16s_16.png",
+    "abstraction": 16,
+    "uniqueID": "tortellini",
+    "concept": "tortellini",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/tortellini_16s_16.png"
+  },
+  "403": {
+    "_id": "bracelet2_15s_16",
+    "filename_prod": "bracelet2_15s.jpg",
+    "filename_recog": "bracelet2_15s_16.png",
+    "abstraction": 16,
+    "uniqueID": "bracelet2",
+    "concept": "bracelet",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/bracelet2_15s_16.png"
+  },
+  "404": {
+    "_id": "snake_10s_4",
+    "filename_prod": "snake_10s.jpg",
+    "filename_recog": "snake_10s_4.png",
+    "abstraction": 4,
+    "uniqueID": "snake",
+    "concept": "snake",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/snake_10s_4.png"
+  },
+  "405": {
+    "_id": "mosquito_12s_8",
+    "filename_prod": "mosquito_12s.jpg",
+    "filename_recog": "mosquito_12s_8.png",
+    "abstraction": 8,
+    "uniqueID": "mosquito",
+    "concept": "mosquito",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/mosquito_12s_8.png"
+  },
+  "406": {
+    "_id": "bracelet2_08s_32",
+    "filename_prod": "bracelet2_08s.jpg",
+    "filename_recog": "bracelet2_08s_32.png",
+    "abstraction": 32,
+    "uniqueID": "bracelet2",
+    "concept": "bracelet",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/bracelet2_08s_32.png"
+  },
+  "407": {
+    "_id": "appetizer_12s_32",
+    "filename_prod": "appetizer_12s.jpg",
+    "filename_recog": "appetizer_12s_32.png",
+    "abstraction": 32,
+    "uniqueID": "appetizer",
+    "concept": "appetizer",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/appetizer_12s_32.png"
+  },
+  "408": {
+    "_id": "bassoon_02s_16",
+    "filename_prod": "bassoon_02s.jpg",
+    "filename_recog": "bassoon_02s_16.png",
+    "abstraction": 16,
+    "uniqueID": "bassoon",
+    "concept": "bassoon",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/bassoon_02s_16.png"
+  },
+  "409": {
+    "_id": "tarantula_06s_8",
+    "filename_prod": "tarantula_06s.jpg",
+    "filename_recog": "tarantula_06s_8.png",
+    "abstraction": 8,
+    "uniqueID": "tarantula",
+    "concept": "tarantula",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/tarantula_06s_8.png"
+  },
+  "410": {
+    "_id": "bed_05n_4",
+    "filename_prod": "bed_05n.jpg",
+    "filename_recog": "bed_05n_4.png",
+    "abstraction": 4,
+    "uniqueID": "bed",
+    "concept": "bed",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/bed_05n_4.png"
+  },
+  "411": {
+    "_id": "dessert_17s_4",
+    "filename_prod": "dessert_17s.jpg",
+    "filename_recog": "dessert_17s_4.png",
+    "abstraction": 4,
+    "uniqueID": "dessert",
+    "concept": "dessert",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/dessert_17s_4.png"
+  },
+  "412": {
+    "_id": "taillight_04s_32",
+    "filename_prod": "taillight_04s.jpg",
+    "filename_recog": "taillight_04s_32.png",
+    "abstraction": 32,
+    "uniqueID": "taillight",
+    "concept": "taillight",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/taillight_04s_32.png"
+  },
+  "413": {
+    "_id": "grapefruit_11s_32",
+    "filename_prod": "grapefruit_11s.jpg",
+    "filename_recog": "grapefruit_11s_32.png",
+    "abstraction": 32,
+    "uniqueID": "grapefruit",
+    "concept": "grapefruit",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/grapefruit_11s_32.png"
+  },
+  "414": {
+    "_id": "guitar_14s_4",
+    "filename_prod": "guitar_14s.jpg",
+    "filename_recog": "guitar_14s_4.png",
+    "abstraction": 4,
+    "uniqueID": "guitar",
+    "concept": "guitar",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/guitar_14s_4.png"
+  },
+  "415": {
+    "_id": "owl_21s_32",
+    "filename_prod": "owl_21s.jpg",
+    "filename_recog": "owl_21s_32.png",
+    "abstraction": 32,
+    "uniqueID": "owl",
+    "concept": "owl",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/owl_21s_32.png"
+  },
+  "416": {
+    "_id": "milkshake_04s_32",
+    "filename_prod": "milkshake_04s.jpg",
+    "filename_recog": "milkshake_04s_32.png",
+    "abstraction": 32,
+    "uniqueID": "milkshake",
+    "concept": "milkshake",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/milkshake_04s_32.png"
+  },
+  "417": {
+    "_id": "extinguisher_11s_16",
+    "filename_prod": "extinguisher_11s.jpg",
+    "filename_recog": "extinguisher_11s_16.png",
+    "abstraction": 16,
+    "uniqueID": "extinguisher",
+    "concept": "extinguisher",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/extinguisher_11s_16.png"
+  },
+  "418": {
+    "_id": "volleyball_14s_16",
+    "filename_prod": "volleyball_14s.jpg",
+    "filename_recog": "volleyball_14s_16.png",
+    "abstraction": 16,
+    "uniqueID": "volleyball",
+    "concept": "volleyball",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/volleyball_14s_16.png"
+  },
+  "419": {
+    "_id": "knob_03s_16",
+    "filename_prod": "knob_03s.jpg",
+    "filename_recog": "knob_03s_16.png",
+    "abstraction": 16,
+    "uniqueID": "knob",
+    "concept": "knob",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/knob_03s_16.png"
+  },
+  "420": {
+    "_id": "tortellini_02s_16",
+    "filename_prod": "tortellini_02s.jpg",
+    "filename_recog": "tortellini_02s_16.png",
+    "abstraction": 16,
+    "uniqueID": "tortellini",
+    "concept": "tortellini",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/tortellini_02s_16.png"
+  },
+  "421": {
+    "_id": "fly_06s_8",
+    "filename_prod": "fly_06s.jpg",
+    "filename_recog": "fly_06s_8.png",
+    "abstraction": 8,
+    "uniqueID": "fly",
+    "concept": "fly",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/fly_06s_8.png"
+  },
+  "422": {
+    "_id": "puffin_09s_8",
+    "filename_prod": "puffin_09s.jpg",
+    "filename_recog": "puffin_09s_8.png",
+    "abstraction": 8,
+    "uniqueID": "puffin",
+    "concept": "puffin",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/puffin_09s_8.png"
+  },
+  "423": {
+    "_id": "pocket_watch_09s_4",
+    "filename_prod": "pocket_watch_09s.jpg",
+    "filename_recog": "pocket_watch_09s_4.png",
+    "abstraction": 4,
+    "uniqueID": "pocket_watch",
+    "concept": "pocket watch",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/pocket_watch_09s_4.png"
+  },
+  "424": {
+    "_id": "gourd_01b_32",
+    "filename_prod": "gourd_01b.jpg",
+    "filename_recog": "gourd_01b_32.png",
+    "abstraction": 32,
+    "uniqueID": "gourd",
+    "concept": "gourd",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/gourd_01b_32.png"
+  },
+  "425": {
+    "_id": "taillight_04s_16",
+    "filename_prod": "taillight_04s.jpg",
+    "filename_recog": "taillight_04s_16.png",
+    "abstraction": 16,
+    "uniqueID": "taillight",
+    "concept": "taillight",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/taillight_04s_16.png"
+  },
+  "426": {
+    "_id": "bear_05s_16",
+    "filename_prod": "bear_05s.jpg",
+    "filename_recog": "bear_05s_16.png",
+    "abstraction": 16,
+    "uniqueID": "bear",
+    "concept": "bear",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/bear_05s_16.png"
+  },
+  "427": {
+    "_id": "bassinet_03s_32",
+    "filename_prod": "bassinet_03s.jpg",
+    "filename_recog": "bassinet_03s_32.png",
+    "abstraction": 32,
+    "uniqueID": "bassinet",
+    "concept": "bassinet",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/bassinet_03s_32.png"
+  },
+  "428": {
+    "_id": "trowel_07s_8",
+    "filename_prod": "trowel_07s.jpg",
+    "filename_recog": "trowel_07s_8.png",
+    "abstraction": 8,
+    "uniqueID": "trowel",
+    "concept": "trowel",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/trowel_07s_8.png"
+  },
+  "429": {
+    "_id": "quesadilla_22s_4",
+    "filename_prod": "quesadilla_22s.jpg",
+    "filename_recog": "quesadilla_22s_4.png",
+    "abstraction": 4,
+    "uniqueID": "quesadilla",
+    "concept": "quesadilla",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/quesadilla_22s_4.png"
+  },
+  "430": {
+    "_id": "gravy_12s_16",
+    "filename_prod": "gravy_12s.jpg",
+    "filename_recog": "gravy_12s_16.png",
+    "abstraction": 16,
+    "uniqueID": "gravy",
+    "concept": "gravy",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/gravy_12s_16.png"
+  },
+  "431": {
+    "_id": "coaster_11s_4",
+    "filename_prod": "coaster_11s.jpg",
+    "filename_recog": "coaster_11s_4.png",
+    "abstraction": 4,
+    "uniqueID": "coaster",
+    "concept": "coaster",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/coaster_11s_4.png"
+  },
+  "432": {
+    "_id": "beanie_18s_4",
+    "filename_prod": "beanie_18s.jpg",
+    "filename_recog": "beanie_18s_4.png",
+    "abstraction": 4,
+    "uniqueID": "beanie",
+    "concept": "beanie",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/beanie_18s_4.png"
+  },
+  "433": {
+    "_id": "hula_hoop_13s_4",
+    "filename_prod": "hula_hoop_13s.jpg",
+    "filename_recog": "hula_hoop_13s_4.png",
+    "abstraction": 4,
+    "uniqueID": "hula_hoop",
+    "concept": "hula hoop",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/hula_hoop_13s_4.png"
+  },
+  "434": {
+    "_id": "kneepad_10s_8",
+    "filename_prod": "kneepad_10s.jpg",
+    "filename_recog": "kneepad_10s_8.png",
+    "abstraction": 8,
+    "uniqueID": "kneepad",
+    "concept": "kneepad",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/kneepad_10s_8.png"
+  },
+  "435": {
+    "_id": "bok_choy_15s_16",
+    "filename_prod": "bok_choy_15s.jpg",
+    "filename_recog": "bok_choy_15s_16.png",
+    "abstraction": 16,
+    "uniqueID": "bok_choy",
+    "concept": "bok choy",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/bok_choy_15s_16.png"
+  },
+  "436": {
+    "_id": "album_15s_32",
+    "filename_prod": "album_15s.jpg",
+    "filename_recog": "album_15s_32.png",
+    "abstraction": 32,
+    "uniqueID": "album",
+    "concept": "album",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/album_15s_32.png"
+  },
+  "437": {
+    "_id": "appetizer_06s_16",
+    "filename_prod": "appetizer_06s.jpg",
+    "filename_recog": "appetizer_06s_16.png",
+    "abstraction": 16,
+    "uniqueID": "appetizer",
+    "concept": "appetizer",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/appetizer_06s_16.png"
+  },
+  "438": {
+    "_id": "chainsaw_14s_16",
+    "filename_prod": "chainsaw_14s.jpg",
+    "filename_recog": "chainsaw_14s_16.png",
+    "abstraction": 16,
+    "uniqueID": "chainsaw",
+    "concept": "chainsaw",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/chainsaw_14s_16.png"
+  },
+  "439": {
+    "_id": "bench_09s_8",
+    "filename_prod": "bench_09s.jpg",
+    "filename_recog": "bench_09s_8.png",
+    "abstraction": 8,
+    "uniqueID": "bench",
+    "concept": "bench",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/bench_09s_8.png"
+  },
+  "440": {
+    "_id": "owl_15s_16",
+    "filename_prod": "owl_15s.jpg",
+    "filename_recog": "owl_15s_16.png",
+    "abstraction": 16,
+    "uniqueID": "owl",
+    "concept": "owl",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/owl_15s_16.png"
+  },
+  "441": {
+    "_id": "thermos_11s_4",
+    "filename_prod": "thermos_11s.jpg",
+    "filename_recog": "thermos_11s_4.png",
+    "abstraction": 4,
+    "uniqueID": "thermos",
+    "concept": "thermos",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/thermos_11s_4.png"
+  },
+  "442": {
+    "_id": "beachball_12s_4",
+    "filename_prod": "beachball_12s.jpg",
+    "filename_recog": "beachball_12s_4.png",
+    "abstraction": 4,
+    "uniqueID": "beachball",
+    "concept": "beachball",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/beachball_12s_4.png"
+  },
+  "443": {
+    "_id": "mango_06s_8",
+    "filename_prod": "mango_06s.jpg",
+    "filename_recog": "mango_06s_8.png",
+    "abstraction": 8,
+    "uniqueID": "mango",
+    "concept": "mango",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/mango_06s_8.png"
+  },
+  "444": {
+    "_id": "bassinet_05s_16",
+    "filename_prod": "bassinet_05s.jpg",
+    "filename_recog": "bassinet_05s_16.png",
+    "abstraction": 16,
+    "uniqueID": "bassinet",
+    "concept": "bassinet",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/bassinet_05s_16.png"
+  },
+  "445": {
+    "_id": "doorknocker_26s_16",
+    "filename_prod": "doorknocker_26s.jpg",
+    "filename_recog": "doorknocker_26s_16.png",
+    "abstraction": 16,
+    "uniqueID": "doorknocker",
+    "concept": "doorknocker",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/doorknocker_26s_16.png"
+  },
+  "446": {
+    "_id": "taillight_10s_4",
+    "filename_prod": "taillight_10s.jpg",
+    "filename_recog": "taillight_10s_4.png",
+    "abstraction": 4,
+    "uniqueID": "taillight",
+    "concept": "taillight",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/taillight_10s_4.png"
+  },
+  "447": {
+    "_id": "cot_07s_16",
+    "filename_prod": "cot_07s.jpg",
+    "filename_recog": "cot_07s_16.png",
+    "abstraction": 16,
+    "uniqueID": "cot",
+    "concept": "cot",
+    "iteration": "pilot_0",
+    "stim_url": "https://vab-recog.s3.us-west-2.amazonaws.com/cot_07s_16.png"
+  }
+}
