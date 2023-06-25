@@ -3,6 +3,7 @@ import * as fs from "fs";
 import csv from "csv-parser";
 import { MongoClient } from "mongodb";
 import path from "path";
+import { Item } from "Item";
 
 dotenv.config();
 
@@ -18,9 +19,10 @@ const CONCEPT_INFO_CSV_PATH = path.resolve(
 );
 
 const MONGO_URL = process.env.MONGODB_URI;
-const DB_NAME = "gallerize";
-const INPUT_COLLECTION_NAME = "gallerize-vab128-input";
-const CONCEPT_INFO_COLLECTION_NAME = "gallerize-vab128-concepts-info";
+const DB_NAME = process.env.MONGODB_DB_NAME;
+const INPUT_COLLECTION_NAME = process.env.MONGODB_INPUT_COLLECTION_NAME;
+const CONCEPT_INFO_COLLECTION_NAME =
+  process.env.MONGODB_CONCEPT_INFO_COLLECTION_NAME;
 
 async function saveInputCSVToMongoDB(): Promise<void> {
   try {
@@ -35,13 +37,19 @@ async function saveInputCSVToMongoDB(): Promise<void> {
     fs.createReadStream(INPUT_CSV_PATH, "utf-8")
       .pipe(csv())
       .on("data", (data) => {
-        if (!!data.blank) {
-          records.push(data);
-        }
+        const item: Item = {
+          id: data.id,
+          concept: data.concept,
+          filename: data.filename,
+          sketchId: data.sketchId,
+          stim_url: data.stim_url,
+          display_count: Number(data.display_count),
+          blank: data.blank.toLowerCase() === "true",
+        };
+
+        records.push(item);
       })
       .on("end", async () => {
-        console.log("records");
-        console.log(records);
         await collection.insertMany(records);
         console.log("CSV data saved to MongoDB successfully");
         client.close();
@@ -64,7 +72,12 @@ async function saveConceptInfoCsvToMongoDB(): Promise<void> {
     fs.createReadStream(CONCEPT_INFO_CSV_PATH, "utf-8")
       .pipe(csv())
       .on("data", (data) => {
-        records.push(data);
+        const conceptInfo: { concept_name: string; display_count: number } = {
+          concept_name: data.concept_name,
+          display_count: Number(data.display_count),
+        };
+
+        records.push(conceptInfo);
       })
       .on("end", async () => {
         await collection.insertMany(records);

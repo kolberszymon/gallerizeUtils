@@ -5,4 +5,5 @@ export interface Item {
   sketchId: string;
   stim_url: string;
   display_count: number;
+  blank: boolean;
 }
